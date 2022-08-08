@@ -8,7 +8,6 @@ import xlsxwriter
 import json
 import os
 
-
 def getHTMLText(url):
     response = urllib.request.urlopen(url)
     myjson = json.loads(response.read().decode())
@@ -70,6 +69,9 @@ def main():
         fileName = appid + '/' + str(n+1) + '.json'
 
         data_feed = jsonText['feed']
+        if 'entry' not in data_feed.keys():
+            continue
+
         entry = data_feed['entry']
         for i in range(len(entry)):
             value = entry[i]
@@ -87,7 +89,7 @@ def main():
                 startRow, 5, value['im:rating']['label'], format)
             totalCount = totalCount + 1
 
-        with open(fileName, 'w') as file:
+        with open(fileName, 'w', encoding='utf-8') as file:
             file.write(json.dumps(jsonText, sort_keys=True,
                                   indent=4, ensure_ascii=False))
 

@@ -1,0 +1,2568 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/uk/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "JamieSag"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id550240523"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "I can’t do anything with this new update, cuz it crashed."
+                },
+                "id": {
+                    "label": "5892015464"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.0.1"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "App crash"
+                },
+                "updated": {
+                    "label": "2020-05-02T00:05:51-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "SmeyLte"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id938190153"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "This latest version (v2.0.0) is not work with IOS 13.4.1 iPhone XS Max please kindly fix\nThanks"
+                },
+                "id": {
+                    "label": "5886583944"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "im:version": {
+                    "label": "2.0.0"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "App not work"
+                },
+                "updated": {
+                    "label": "2020-04-30T19:45:37-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "Chhorporn"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id799757003"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "Worst app ever"
+                },
+                "id": {
+                    "label": "5869225996"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "1.11.1"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Could not login"
+                },
+                "updated": {
+                    "label": "2020-04-26T21:20:17-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "ណាំហាយ"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id153232833"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "I spent half day to reactivate my wing account, i called about 10 time to hotline but i still cannot use it. They said our account is active but activate in iPhone apps it said “your app user has been blocked” reboot phone and resinstall this app still cannot login until now. Waste tike and wasted money."
+                },
+                "id": {
+                    "label": "5837280006"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "1.11.1"
+                },
+                "im:voteCount": {
+                    "label": "1"
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Cannot login"
+                },
+                "updated": {
+                    "label": "2020-04-19T21:58:38-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "Net pov"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id472889132"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "I can't login with my phone"
+                },
+                "id": {
+                    "label": "5819885244"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "im:version": {
+                    "label": "1.11.1"
+                },
+                "im:voteCount": {
+                    "label": "1"
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "I can't login with my phone"
+                },
+                "updated": {
+                    "label": "2020-04-16T06:09:30-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "Pix pec"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id1053056819"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "Good"
+                },
+                "id": {
+                    "label": "5731518411"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "1.11.0"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Good"
+                },
+                "updated": {
+                    "label": "2020-03-29T08:55:55-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "cheasovandara"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id783272831"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "Nowadays, the world is running, but your service is still walking."
+                },
+                "id": {
+                    "label": "5670997189"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "1.11.0"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Need improvements"
+                },
+                "updated": {
+                    "label": "2020-03-16T20:55:06-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "Telor Creats"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id506495805"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "070892789"
+                },
+                "id": {
+                    "label": "5448906294"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "1.10.0"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "My Account Wing ត្រូវបានblock help"
+                },
+                "updated": {
+                    "label": "2020-01-25T16:52:56-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "pichnarong"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id935904083"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "Seriously I see that this app say 10 card is ok but I only make 2 cards and it say my account is blocking which I can use my real card but can’t use the app why can u fix this problem oh and everything else is really good only this problem please fix it!!"
+                },
+                "id": {
+                    "label": "5282114205"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "im:version": {
+                    "label": "1.9.0"
+                },
+                "im:voteCount": {
+                    "label": "3"
+                },
+                "im:voteSum": {
+                    "label": "3"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "2 card problem"
+                },
+                "updated": {
+                    "label": "2019-12-16T21:45:53-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "eang09"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id472504644"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "I think ABA is the best !"
+                },
+                "id": {
+                    "label": "5263719169"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "1.9.0"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "ABA"
+                },
+                "updated": {
+                    "label": "2019-12-12T05:49:05-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "Sun Van"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id1099846442"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "Why I can’t register with wing"
+                },
+                "id": {
+                    "label": "5260434126"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "1.9.0"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Register"
+                },
+                "updated": {
+                    "label": "2019-12-11T09:56:59-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "060652490"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id1100858491"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "070652490"
+                },
+                "id": {
+                    "label": "5162901088"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "im:version": {
+                    "label": "1.9.0"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Rith cita"
+                },
+                "updated": {
+                    "label": "2019-11-17T22:30:05-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "LikeChat"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id1099379142"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "This bank charges many services while other banks provide them free. Yesterday I went to cash out at its agent, but I couldn’t withdraw my money. It said my account was frozen. I called their call center, they said I didn’t have enough documents and asked me to update my details with any agent. I went there, but the agent (very unfriendly) refused to do it for me at first until I recalled the call center. The call center talked to him and he did for me (not happy to do it) and asked me to do many things by myself to get 6 digits code (I didn’t know how to do it at that time but he didn’t help). I got the digits but then the machine was stuck, and nothing worked. That was very annoying and wasted my time so much. 😡😡I decided to go to their headquarter the next day, it took quite sometime to fix it. I could cash my money out for now, but I was surprised that they charged me 90cents for 60$ cash out. That’s ridiculous!!! When my friends sent money to my account they charged one time, and when I withdrew the money, they charged again. Even you transfer money between your own account, they also charged you!!! 😡😡😡The app, the agent, the service, etc are not convenient. I don’t recommend this bank."
+                },
+                "id": {
+                    "label": "5141500599"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "1.9.0"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Ridiculous service charges"
+                },
+                "updated": {
+                    "label": "2019-11-15T03:41:10-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "Kxlalisax"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id641142533"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "My phone is iphone 7 plus , I cannot log\nIn to my account in wing app. It keep saying that there’re no connection but it work well on the other app. I call to wing service about it but still there’re no solutions. Please look into this for me."
+                },
+                "id": {
+                    "label": "4680293211"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "im:version": {
+                    "label": "1.8.3"
+                },
+                "im:voteCount": {
+                    "label": "2"
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Can’t log in"
+                },
+                "updated": {
+                    "label": "2019-08-26T23:52:37-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "Tas-Na"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id982590468"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "Day month and year"
+                },
+                "id": {
+                    "label": "4606045379"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "1.8.2"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "What about day and months download this app???"
+                },
+                "updated": {
+                    "label": "2019-08-12T02:51:16-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "adenroderick"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id454328881"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "I try to top up my phone it take my money from my account but my phone doesn’t top up. I try it 2times still not working:))"
+                },
+                "id": {
+                    "label": "4498245973"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "1.8.1"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Problems"
+                },
+                "updated": {
+                    "label": "2019-07-21T11:45:55-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "jackop jo"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id234298007"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "Bad app very difficult to use every time when ios update can not open."
+                },
+                "id": {
+                    "label": "4424299599"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "1.8.1"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Difficult"
+                },
+                "updated": {
+                    "label": "2019-07-07T03:20:40-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "Sophea Naga"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id919089207"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "cannot login after logout in app & website too. why you do that? make form login in website but cannot login ? ? ? ?"
+                },
+                "id": {
+                    "label": "4329054403"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "1.7.9"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "cannot login"
+                },
+                "updated": {
+                    "label": "2019-06-17T01:31:01-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "Chea Pisey"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id509726717"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "Good 💜"
+                },
+                "id": {
+                    "label": "4322241445"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "im:version": {
+                    "label": "1.7.9"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Wing"
+                },
+                "updated": {
+                    "label": "2019-06-15T19:08:02-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "BunlyTours"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id889453640"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "We have been trying to register in Wing Account many time. but as it is an impossible to let us work properly.\n\nWe have requested to help us to be listed in your account.\nTel:0769888847\n\nWish you all the best,\nBunly"
+                },
+                "id": {
+                    "label": "4260927906"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "1.7.8"
+                },
+                "im:voteCount": {
+                    "label": "1"
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "New members registration"
+                },
+                "updated": {
+                    "label": "2019-06-03T22:14:50-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "chamreun077777"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id832053646"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "Why you blocked me? I’ve just put 5$"
+                },
+                "id": {
+                    "label": "4164157625"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "1.7.8"
+                },
+                "im:voteCount": {
+                    "label": "1"
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Get blocked"
+                },
+                "updated": {
+                    "label": "2019-05-17T04:22:32-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "T'challa868"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id985787700"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "Why didn’t u allow us to delete notifications? Just why? This is the worst idea ever 😡😡😡!!!"
+                },
+                "id": {
+                    "label": "4163397842"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "1.7.8"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Bad notification"
+                },
+                "updated": {
+                    "label": "2019-05-17T01:00:33-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "Ny Ry"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id940420823"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "koh kong"
+                },
+                "id": {
+                    "label": "4128562414"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "1.7.7"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Ry Ny"
+                },
+                "updated": {
+                    "label": "2019-05-10T05:39:34-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "menglychhat"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id678001225"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "My account can not login in"
+                },
+                "id": {
+                    "label": "4021423585"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "1.7.7"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Can’t log in"
+                },
+                "updated": {
+                    "label": "2019-04-16T14:19:52-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "sitha 45"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id1003521962"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "Help me pls"
+                },
+                "id": {
+                    "label": "3992920507"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "im:version": {
+                    "label": "1.7.7"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Can not open the app always ask me to update"
+                },
+                "updated": {
+                    "label": "2019-04-09T21:03:39-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "sarann you"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id1003517595"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "I can’t update to version 1.7.7\nPlz check it again"
+                },
+                "id": {
+                    "label": "3992875347"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "1.7.7"
+                },
+                "im:voteCount": {
+                    "label": "1"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "New app"
+                },
+                "updated": {
+                    "label": "2019-04-09T20:46:43-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "iPlej"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id583811016"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "Thanks wing app 1.7.6 (iPhone X), this version is perfect, I love & trusted\nError 1 - face id login is still not fix, need to login multiple times, sometimes it crushed, need to restart app.\n\n1 - Online Master Card is now perfect (😘 💯) 10 card/account, number of daily purchase & max amount is now customizable\n2 - Change OMC linked account ( 😘💯)\n\n30-March-2019"
+                },
+                "id": {
+                    "label": "3946434720"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "1.7.6"
+                },
+                "im:voteCount": {
+                    "label": "1"
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Mrr Leex"
+                },
+                "updated": {
+                    "label": "2019-03-30T06:17:49-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "086987252"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id968592455"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "086987252"
+                },
+                "id": {
+                    "label": "3788939285"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "1.7.5"
+                },
+                "im:voteCount": {
+                    "label": "1"
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "086987252"
+                },
+                "updated": {
+                    "label": "2019-02-19T05:03:22-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "Vampire KH"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id965979236"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "I can’t login to wing money account please fix this problem"
+                },
+                "id": {
+                    "label": "3721393901"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "im:version": {
+                    "label": "1.7.4"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Wing Money Problem Login"
+                },
+                "updated": {
+                    "label": "2019-02-01T11:03:02-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "វីង"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id486641764"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "How should I do for Wing app after I installed already but I couldn't use it because I had reset my phone application and then I couldn't use it again after re-installing."
+                },
+                "id": {
+                    "label": "3715523185"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "im:version": {
+                    "label": "1.7.4"
+                },
+                "im:voteCount": {
+                    "label": "9"
+                },
+                "im:voteSum": {
+                    "label": "8"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "តើយើងត្រូវធ្វើអ្វីទៀតបន្ទាប់ពីបង្កើតករណីវីងរួចហើយ"
+                },
+                "updated": {
+                    "label": "2019-01-31T00:19:10-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "chomnor545957"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id806940825"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "Love like this"
+                },
+                "id": {
+                    "label": "3633531931"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "1.7.3"
+                },
+                "im:voteCount": {
+                    "label": "1"
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "iPhone"
+                },
+                "updated": {
+                    "label": "2019-01-10T04:01:27-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "JingHab"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id561913887"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "It doesn't have password box after I reopen it. Please fix this."
+                },
+                "id": {
+                    "label": "3597946525"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "im:version": {
+                    "label": "1.7.3"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Dizzy"
+                },
+                "updated": {
+                    "label": "2018-12-31T20:04:58-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "Sopha Even"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id828111391"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "Love Wink"
+                },
+                "id": {
+                    "label": "3569640403"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "1.7.3"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "បើសិនជាវីងធ្វើធ្វើដៃគូរសហរការជាមួយធនាគា ABA មិនដឹងជាល្អយ៉ាងណាទេ"
+                },
+                "updated": {
+                    "label": "2018-12-24T20:13:56-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "Pov seyha"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id899495989"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "សូមបញ្ជូនបុគ្គលិកទៅបង្រៀនភ្នាក់ងារនៅតាមខេត្តអោយគាត់ចេញដាក់លុយចូលគណី​តាមរយៈ​កាតដែលបង្កើយតាមapp wing ផង"
+                },
+                "id": {
+                    "label": "3535094535"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "im:version": {
+                    "label": "1.7.3"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "បញ្ហាទាក់ទងនឹងភ្នាក់ងារមួយចំនួននៅតាមខេត្ត"
+                },
+                "updated": {
+                    "label": "2018-12-15T15:18:58-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "Koy123456"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id503069498"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "I hardly to see all information in the pop up message in transactions summary. If I want to see all Information, I have to scroll up. Could you please make the pop up bigger because I need to screen shot every transaction I made for my company purpose. And it’s much appreciated if it is available on iPad."
+                },
+                "id": {
+                    "label": "3471995600"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "im:version": {
+                    "label": "1.7.2"
+                },
+                "im:voteCount": {
+                    "label": "107"
+                },
+                "im:voteSum": {
+                    "label": "73"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Transaction summary"
+                },
+                "updated": {
+                    "label": "2018-11-28T18:53:11-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "__CHHAY__"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id591908056"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "I can’t create my own acc wing. \nHow can I create it?\nOne more thing it doesn’t work on IPhone6s plus."
+                },
+                "id": {
+                    "label": "3446077487"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "im:version": {
+                    "label": "1.7.2"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Acc Wing problem"
+                },
+                "updated": {
+                    "label": "2018-11-21T22:43:10-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "LvF5"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id933171289"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "Many errors cannot log-in. Too much problem"
+                },
+                "id": {
+                    "label": "3402521640"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "1.7.2"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Don’t use this app"
+                },
+                "updated": {
+                    "label": "2018-11-10T07:56:06-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "Taichiiiiiiiiiiii"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id931147268"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "Why I can’t see my master card!!! And I can’t use!!! Pls fix this:))"
+                },
+                "id": {
+                    "label": "3386116075"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "im:version": {
+                    "label": "1.7.2"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Error master card"
+                },
+                "updated": {
+                    "label": "2018-11-05T21:33:15-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "use to be a gt fan"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id663748173"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "Help idk what it is pls help I idk what to do when I try to log in the wing just go to the page link account what the hell is going on"
+                },
+                "id": {
+                    "label": "3252157652"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "im:version": {
+                    "label": "1.7.0"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Link account problem"
+                },
+                "updated": {
+                    "label": "2018-10-01T08:39:15-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "SAV CHEM"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id910957589"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "081961526"
+                },
+                "id": {
+                    "label": "3231984586"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "1.6.0"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "081961526"
+                },
+                "updated": {
+                    "label": "2018-09-26T05:06:05-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "ounnea"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id870543854"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "Happy"
+                },
+                "id": {
+                    "label": "3215770325"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "1.6.0"
+                },
+                "im:voteCount": {
+                    "label": "1"
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Seyha"
+                },
+                "updated": {
+                    "label": "2018-09-21T20:23:52-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "oudomm"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id904213210"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "Please!!! After install app it works as  fine, but after close app for once then it becomes useless. When open the app again it gives you the phone number box and there is NO ENTER BOTTON. Please!!! I can’t make up my mind to delete and reinstall it again and again.. again PLEASEEEE"
+                },
+                "id": {
+                    "label": "3183224375"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "im:version": {
+                    "label": "1.6.0"
+                },
+                "im:voteCount": {
+                    "label": "2"
+                },
+                "im:voteSum": {
+                    "label": "2"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Stressful"
+                },
+                "updated": {
+                    "label": "2018-09-12T20:35:28-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "2018Raking"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id861170901"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "P1234p"
+                },
+                "id": {
+                    "label": "3145409333"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "im:version": {
+                    "label": "1.6.0"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "0968344601"
+                },
+                "updated": {
+                    "label": "2018-09-02T08:58:06-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "Béé Móó"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id897546461"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "I reset my iPhone. And now i can’t log in It said “the account is already activate on other device”. Plz fix this thing."
+                },
+                "id": {
+                    "label": "3137639221"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "1.6.0"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Can’t log in"
+                },
+                "updated": {
+                    "label": "2018-08-31T08:32:37-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "yayatores"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id884741561"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "Like"
+                },
+                "id": {
+                    "label": "3131438072"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "1.6.0"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Good"
+                },
+                "updated": {
+                    "label": "2018-08-29T21:31:37-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "rathanapiture"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id622223830"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "Very very good I like"
+                },
+                "id": {
+                    "label": "3130427429"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "1.6.0"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "I like very well"
+                },
+                "updated": {
+                    "label": "2018-08-29T14:45:13-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "Chan Leng CL"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id677320975"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "I can't log in to my account after doing a reset all contents and settings on my iPhone. I texted Wing Money facebook page and they wanted me to contact with Care Centre. I told the Care Centre that I lost all my contents on my phone because I did a reset, and that fking girl in Care Centre still wanted the message I got when I just registered the account. Seriously? Fk u. I have more than a dollar left in the account. Shxt service I have ever seen."
+                },
+                "id": {
+                    "label": "3096995610"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "1.6.0"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Shxt app"
+                },
+                "updated": {
+                    "label": "2018-08-21T17:25:19-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "Fantaellyma"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id461386949"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "After I updated this app I cannot even logging in it said only not available"
+                },
+                "id": {
+                    "label": "2981803837"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "1.6.0"
+                },
+                "im:voteCount": {
+                    "label": "1"
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Wasting time"
+                },
+                "updated": {
+                    "label": "2018-07-28T02:26:10-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "suyveasna"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id768684621"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "069773577"
+                },
+                "id": {
+                    "label": "2638024285"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "1.5.9"
+                },
+                "im:voteCount": {
+                    "label": "1"
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "បងជួយប្រាប់ពីរបៀបErrorផង wing money"
+                },
+                "updated": {
+                    "label": "2018-06-03T17:01:42-07:00"
+                }
+            },
+            {
+                "author": {
+                    "label": "",
+                    "name": {
+                        "label": "BunhakSang"
+                    },
+                    "uri": {
+                        "label": "https://itunes.apple.com/kh/reviews/id250513643"
+                    }
+                },
+                "content": {
+                    "attributes": {
+                        "type": "text"
+                    },
+                    "label": "Try to develop more about this app"
+                },
+                "id": {
+                    "label": "2588355315"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "label": "Application",
+                        "term": "Application"
+                    }
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "im:version": {
+                    "label": "1.5.9"
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "link": {
+                    "attributes": {
+                        "href": "https://itunes.apple.com/kh/review?id=1113286385&type=Purple%20Software",
+                        "rel": "related"
+                    }
+                },
+                "title": {
+                    "label": "Processing not so smooth"
+                },
+                "updated": {
+                    "label": "2018-05-23T23:23:47-07:00"
+                }
+            }
+        ],
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "id": {
+            "label": "https://mzstoreservices-int.dslb.apple.com/rss/customerreviews/page=3/id=1113286385/sortby=mostrecent/json?l=en&&cc=kh"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=kh&id=132385",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            },
+            {
+                "attributes": {
+                    "href": "https://mzstoreservices-int.dslb.apple.com/rss/customerreviews/page=3/id=1113286385/sortby=mostrecent/json?l=en&&cc=kh",
+                    "rel": "self"
+                }
+            },
+            {
+                "attributes": {
+                    "href": "https://itunes.apple.com/kh/rss/customerreviews/page=1/id=1113286385/sortby=mostrecent/xml?l=en&urlDesc=/customerreviews/page=3/id=1113286385/sortby=mostrecent/json",
+                    "rel": "first"
+                }
+            },
+            {
+                "attributes": {
+                    "href": "https://itunes.apple.com/kh/rss/customerreviews/page=4/id=1113286385/sortby=mostrecent/xml?l=en&urlDesc=/customerreviews/page=3/id=1113286385/sortby=mostrecent/json",
+                    "rel": "last"
+                }
+            },
+            {
+                "attributes": {
+                    "href": "https://itunes.apple.com/kh/rss/customerreviews/page=2/id=1113286385/sortby=mostrecent/xml?l=en&urlDesc=/customerreviews/page=3/id=1113286385/sortby=mostrecent/json",
+                    "rel": "previous"
+                }
+            },
+            {
+                "attributes": {
+                    "href": "https://itunes.apple.com/kh/rss/customerreviews/page=4/id=1113286385/sortby=mostrecent/xml?l=en&urlDesc=/customerreviews/page=3/id=1113286385/sortby=mostrecent/json",
+                    "rel": "next"
+                }
+            }
+        ],
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "updated": {
+            "label": "2022-08-08T00:18:15-07:00"
+        }
+    }
+}
