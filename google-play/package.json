@@ -9,6 +9,6 @@
   "author": "VanJay",
   "license": "ISC",
   "dependencies": {
-    "google-play-scraper": "^6.2.6"
+    "google-play-scraper": "^9.0.2"
   }
 }

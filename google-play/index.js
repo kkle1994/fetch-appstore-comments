@@ -33,24 +33,28 @@ var fs = require("fs");
 
 var arr = [
   {
-  'bundle_id': 'com.pipay.app.android',
-  'name': 'PiPay'
-},
-// {
-//   'bundle_id': 'com.aeon_cambodia.rielpay',
-//   'name': 'AEON Wallet'
-// },
-// {
-//   'bundle_id': 'com.wingmoney.wingpay',
-//   'name': 'Wing Money'
-// },
-// {
-//   'bundle_id': 'th.co.truemoney.wallet',
-//   'name': 'True Money'
-// }
+    'bundle_id': 'com.pipay.app.android',
+    'name': 'PiPay'
+  },
+  // {
+  //   'bundle_id': 'com.aeon_cambodia.rielpay',
+  //   'name': 'AEON Wallet'
+  // },
+  // {
+  //   'bundle_id': 'com.battlefun.c1game',
+  //   'name': 'HyperFront'
+  // }
+  // {
+  //   'bundle_id': 'th.co.truemoney.wallet',
+  //   'name': 'True Money'
+  // }
 ]
 
 const total = 50
+var paginateToken = "";
+
+
+
 
 for (let i = 0; i < arr.length; i++) {
   const object = arr[i]
@@ -68,14 +72,20 @@ for (let i = 0; i < arr.length; i++) {
 
   console.log(`包名：${bundle_id}  应用名：${name}`)
 
-  for (let index = 0; index < total; index++) {
-    gplay.reviews({
-      appId: bundle_id,
-      lang: 'kh',
-      page: index
-    })
-      .then((body) => {
-        if (body.length > 0) {
+  async function waitForPromise() {
+    for (let index = 0; index < total; index++) {
+      if (paginateToken == null)
+        return;
+
+      let promise = gplay.reviews({
+        appId: bundle_id,
+        num: 200,
+        paginate: true,
+        nextPaginationToken: paginateToken // you can omit this parameter
+      })
+      promise.then((body) => {
+        if (body) {
+          paginateToken = body["nextPaginationToken"];
           fs.writeFile(`${bundle_id}/${index}.json`, JSON.stringify(body), (err) => {
             if (err) {
               console.error(err);
@@ -87,5 +97,8 @@ for (let i = 0; i < arr.length; i++) {
           console.log('无更多评论')
         }
       })
+      await promise;
+    }
   }
+  waitForPromise();
 }
